@@ -1,4 +1,4 @@
 # API ZONE
 ## Choose your API carefully
 ### Here is the list:
-- Sample Data
+- [Fake People Data](https://shyamkanth.github.io/Api/fake.json)
