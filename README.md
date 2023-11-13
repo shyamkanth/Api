@@ -1,4 +1,4 @@
 # API ZONE
-## Choose your API carefully
 ### Here is the list:
-- [Fake People Data](https://shyamkanth.github.io/Api/fake.json)
+- [Fake People API](https://shyamkanth.github.io/Api/fake.json)
+- [Avatar API](https://shyamkanth.github.io/Api/avatar.json)
