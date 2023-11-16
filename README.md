@@ -5,7 +5,5 @@
 | Fake People API  | https://shyamkanth.github.io/Api/fake.json | [Get API](https://shyamkanth.github.io/Api/fake.json) |
 | Avatar API  | https://shyamkanth.github.io/Api/avatar.html | [Get API](https://shyamkanth.github.io/Api/avatar.html) |
 
-- Fake People API : [Get API](https://shyamkanth.github.io/Api/fake.json)
-- Avatar API : [Get API](https://shyamkanth.github.io/Api/avatar.html)
 
 
