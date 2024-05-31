@@ -1,0 +1,396 @@
+{
+  "students": [
+    {
+      "name": "Shyam",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101311,
+      "semester": 8
+    },
+    {
+      "name": "Aarav",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101312,
+      "semester": 6
+    },
+    {
+      "name": "Ananya",
+      "course": "B.Sc",
+      "department": "Physics",
+      "roll": 200101313,
+      "semester": 4
+    },
+    {
+      "name": "Vihaan",
+      "course": "B.Com",
+      "department": "Commerce",
+      "roll": 200101314,
+      "semester": 2
+    },
+    {
+      "name": "Diya",
+      "course": "B.Tech",
+      "department": "IT",
+      "roll": 200101315,
+      "semester": 8
+    },
+    {
+      "name": "Aditya",
+      "course": "B.Tech",
+      "department": "Mechanical",
+      "roll": 200101316,
+      "semester": 7
+    },
+    {
+      "name": "Ishaan",
+      "course": "B.Arch",
+      "department": "Architecture",
+      "roll": 200101317,
+      "semester": 5
+    },
+    {
+      "name": "Aanya",
+      "course": "B.Tech",
+      "department": "Civil",
+      "roll": 200101318,
+      "semester": 3
+    },
+    {
+      "name": "Kabir",
+      "course": "B.Sc",
+      "department": "Chemistry",
+      "roll": 200101319,
+      "semester": 1
+    },
+    {
+      "name": "Sara",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101320,
+      "semester": 6
+    },
+    {
+      "name": "Aryan",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101321,
+      "semester": 6
+    },
+    {
+      "name": "Nisha",
+      "course": "B.Sc",
+      "department": "Mathematics",
+      "roll": 200101322,
+      "semester": 4
+    },
+    {
+      "name": "Riya",
+      "course": "B.Com",
+      "department": "Commerce",
+      "roll": 200101323,
+      "semester": 2
+    },
+    {
+      "name": "Rohan",
+      "course": "B.Tech",
+      "department": "IT",
+      "roll": 200101324,
+      "semester": 8
+    },
+    {
+      "name": "Sneha",
+      "course": "B.Tech",
+      "department": "Mechanical",
+      "roll": 200101325,
+      "semester": 7
+    },
+    {
+      "name": "Aditi",
+      "course": "B.Arch",
+      "department": "Architecture",
+      "roll": 200101326,
+      "semester": 5
+    },
+    {
+      "name": "Rahul",
+      "course": "B.Tech",
+      "department": "Civil",
+      "roll": 200101327,
+      "semester": 3
+    },
+    {
+      "name": "Tanya",
+      "course": "B.Sc",
+      "department": "Chemistry",
+      "roll": 200101328,
+      "semester": 1
+    },
+    {
+      "name": "Karan",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101329,
+      "semester": 6
+    },
+    {
+      "name": "Ankit",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101330,
+      "semester": 6
+    },
+    {
+      "name": "Priya",
+      "course": "B.Sc",
+      "department": "Physics",
+      "roll": 200101331,
+      "semester": 4
+    },
+    {
+      "name": "Meera",
+      "course": "B.Com",
+      "department": "Commerce",
+      "roll": 200101332,
+      "semester": 2
+    },
+    {
+      "name": "Neha",
+      "course": "B.Tech",
+      "department": "IT",
+      "roll": 200101333,
+      "semester": 8
+    },
+    {
+      "name": "Vikram",
+      "course": "B.Tech",
+      "department": "Mechanical",
+      "roll": 200101334,
+      "semester": 7
+    },
+    {
+      "name": "Siddharth",
+      "course": "B.Arch",
+      "department": "Architecture",
+      "roll": 200101335,
+      "semester": 5
+    },
+    {
+      "name": "Anushka",
+      "course": "B.Tech",
+      "department": "Civil",
+      "roll": 200101336,
+      "semester": 3
+    },
+    {
+      "name": "Kavya",
+      "course": "B.Sc",
+      "department": "Chemistry",
+      "roll": 200101337,
+      "semester": 1
+    },
+    {
+      "name": "Ritika",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101338,
+      "semester": 6
+    },
+    {
+      "name": "Nikhil",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101339,
+      "semester": 6
+    },
+    {
+      "name": "Ayesha",
+      "course": "B.Sc",
+      "department": "Mathematics",
+      "roll": 200101340,
+      "semester": 4
+    },
+    {
+      "name": "Sana",
+      "course": "B.Com",
+      "department": "Commerce",
+      "roll": 200101341,
+      "semester": 2
+    },
+    {
+      "name": "Raghav",
+      "course": "B.Tech",
+      "department": "IT",
+      "roll": 200101342,
+      "semester": 8
+    },
+    {
+      "name": "Naina",
+      "course": "B.Tech",
+      "department": "Mechanical",
+      "roll": 200101343,
+      "semester": 7
+    },
+    {
+      "name": "Aarohi",
+      "course": "B.Arch",
+      "department": "Architecture",
+      "roll": 200101344,
+      "semester": 5
+    },
+    {
+      "name": "Arjun",
+      "course": "B.Tech",
+      "department": "Civil",
+      "roll": 200101345,
+      "semester": 3
+    },
+    {
+      "name": "Radhika",
+      "course": "B.Sc",
+      "department": "Chemistry",
+      "roll": 200101346,
+      "semester": 1
+    },
+    {
+      "name": "Gaurav",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101347,
+      "semester": 6
+    },
+    {
+      "name": "Sahil",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101348,
+      "semester": 6
+    },
+    {
+      "name": "Kriti",
+      "course": "B.Sc",
+      "department": "Physics",
+      "roll": 200101349,
+      "semester": 4
+    },
+    {
+      "name": "Manish",
+      "course": "B.Com",
+      "department": "Commerce",
+      "roll": 200101350,
+      "semester": 2
+    },
+    {
+      "name": "Divya",
+      "course": "B.Tech",
+      "department": "IT",
+      "roll": 200101351,
+      "semester": 8
+    },
+    {
+      "name": "Rakesh",
+      "course": "B.Tech",
+      "department": "Mechanical",
+      "roll": 200101352,
+      "semester": 7
+    },
+    {
+      "name": "Ankita",
+      "course": "B.Arch",
+      "department": "Architecture",
+      "roll": 200101353,
+      "semester": 5
+    },
+    {
+      "name": "Tanvi",
+      "course": "B.Tech",
+      "department": "Civil",
+      "roll": 200101354,
+      "semester": 3
+    },
+    {
+      "name": "Harsh",
+      "course": "B.Sc",
+      "department": "Chemistry",
+      "roll": 200101355,
+      "semester": 1
+    },
+    {
+      "name": "Pooja",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101356,
+      "semester": 6
+    },
+    {
+      "name": "Rachit",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101357,
+      "semester": 6
+    },
+    {
+      "name": "Mira",
+      "course": "B.Sc",
+      "department": "Mathematics",
+      "roll": 200101358,
+      "semester": 4
+    },
+    {
+      "name": "Raj",
+      "course": "B.Com",
+      "department": "Commerce",
+      "roll": 200101359,
+      "semester": 2
+    },
+    {
+      "name": "Sakshi",
+      "course": "B.Tech",
+      "department": "IT",
+      "roll": 200101360,
+      "semester": 8
+    },
+    {
+      "name": "Amit",
+      "course": "B.Tech",
+      "department": "Mechanical",
+      "roll": 200101361,
+      "semester": 7
+    },
+    {
+      "name": "Sanya",
+      "course": "B.Arch",
+      "department": "Architecture",
+      "roll": 200101362,
+      "semester": 5
+    },
+    {
+      "name": "Kunal",
+      "course": "B.Tech",
+      "department": "Civil",
+      "roll": 200101363,
+      "semester": 3
+    },
+    {
+      "name": "Tara",
+      "course": "B.Sc",
+      "department": "Chemistry",
+      "roll": 200101364,
+      "semester": 1
+    },
+    {
+      "name": "Yash",
+      "course": "B.Tech",
+      "department": "CSE",
+      "roll": 200101365,
+      "semester": 6
+    },
+    {
+      "name": "Keshav",
+      "course": "B.Tech",
+      "department": "ECE",
+      "roll": 200101366,
+      "semester": 6
+    }
+  ]
+}
